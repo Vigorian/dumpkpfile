@@ -62,7 +62,7 @@ namespace DumpKeePassFile
 			
 			string password = args[0];
 			CompositeKey key = new CompositeKey();
-			key.AddUserKey (new KcpPassword(password));
+			key.AddUserKey(new KcpPassword(password));
 			
 			try
 			{

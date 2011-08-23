@@ -8,7 +8,7 @@
     <ProjectGuid>{B214986F-A6F1-41BE-B055-F6CA62ED1A31}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>DumpKeePassFile</RootNamespace>
-    <AssemblyName>PrintDatabase</AssemblyName>
+    <AssemblyName>DumpKeePassFile</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <ReleaseVersion>1</ReleaseVersion>
     <SynchReleaseVersion>false</SynchReleaseVersion>
